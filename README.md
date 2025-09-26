@@ -1,10 +1,10 @@
-Minimalist To-Do List
+**MINIMALIST TO-DO LIST**
 
 A clean, responsive, and minimalist To-Do List web app built using HTML, CSS (Bootstrap 5), and JavaScript (with jQuery).
 Tasks are stored in localStorage, so your to-dos persist even after refreshing or closing the browser.
 
 
-Features
+FEATURES
 -Add new tasks easily
 -Mark tasks as completed
 -Edit tasks inline
@@ -13,7 +13,7 @@ Features
 -Automatic saving in localStorage
 -Fully responsive for mobile and desktop
 
-Tech Stack
+TECH-STACK
 -HTML5
 -CSS3 with Bootstrap 5 and Google Fonts (Inter)
 -JavaScript (jQuery) for interactivity
